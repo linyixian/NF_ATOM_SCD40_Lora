@@ -2,7 +2,7 @@
 
 .NET nanoFrameworkで動作します。
 
-##使用ハードウェア
+## 使用ハードウェア
 
   ・M5 ATOM Lite
   
