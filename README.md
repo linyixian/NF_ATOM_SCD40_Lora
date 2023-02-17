@@ -8,5 +8,5 @@
   
   ・Co2 UNIT(SCD40)
   
-  ・LoraHAT(ES920LR3)
+  ・M5ATOM用Loraキット(ES920LR3)
   
